@@ -23,7 +23,7 @@ automation, gaming tools and random projects that make life easier.
 - 🖥️ PC / software
 - 🛠️ Automation
 - 🎨 Content creation
-- 🔧 Experimenting with new tools
+- 🔧 ChatGPT vibe code
 
 ---
 
